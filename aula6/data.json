@@ -1,0 +1,27 @@
+[
+    {
+        "type" : "car",
+        "brand" : "ferrari",
+        "speed": 100
+    },
+    {
+        "type" : "car",
+        "brand": "fiat",
+        "speed": 50
+    },
+    {
+        "type" : "motorcycle",
+        "brand": "harley",
+        "speed": 300
+    },
+    {
+        "type": "motorcycle",
+        "brand": "yamaha",
+        "speed": 100
+    },
+    {
+        "type" : "boat",
+        "brand" : "titanic",
+        "speed" : 2000
+    }
+]
