@@ -54,3 +54,15 @@ const showArray = (array) => {
 
 showArray (arraySum)
 
+class teste {
+    constructor () {
+
+    }
+
+    returnNumber2 () {
+        console.log(2);
+    }
+}
+
+const num2 = new teste();
+num2.returnNumber2();
